@@ -1,7 +1,7 @@
 
 ## MOhamed Assed ! 👋
 
-I'm a **Fullstack Developer** and a **Software Engineering student**.
+I'm a **BackEnd Developer** and a **Software Engineering student**.
 
 
 <p align="center">
